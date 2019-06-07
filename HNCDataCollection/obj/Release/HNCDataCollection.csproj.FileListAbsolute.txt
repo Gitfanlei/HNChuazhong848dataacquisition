@@ -1,0 +1,133 @@
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe.config
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.pdb
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Form1.resources
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Properties.Resources.resources
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.GenerateResource.Cache
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.exe
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.pdb
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csprojResolveAssemblyReference.cache
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafka.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafkacpp.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\msvcr120.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\zlib.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafka.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafkacpp.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\msvcr120.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\zlib.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.dll
+C:\Users\msn76\Documents\Visual Studio 2017\Projects\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.xml
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafka.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafkacpp.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\msvcr120.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\zlib.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafka.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafkacpp.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\msvcr120.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\zlib.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe.config
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.pdb
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.dll
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.xml
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csprojResolveAssemblyReference.cache
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Form1.resources
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Properties.Resources.resources
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.GenerateResource.cache
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CopyComplete
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.exe
+C:\Users\msn76\Desktop\其他资料\近期\0已完成\数据采集客户端\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.pdb
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafka.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafkacpp.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\msvcr120.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\zlib.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafka.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafkacpp.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\msvcr120.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\zlib.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe.config
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.pdb
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.xml
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csprojAssemblyReference.cache
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Form1.resources
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Properties.Resources.resources
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.GenerateResource.cache
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CopyComplete
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.exe
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.pdb
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Newtonsoft.Json.dll
+C:\Users\msn76\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Newtonsoft.Json.xml
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafka.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\librdkafkacpp.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\msvcr120.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x86\zlib.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafka.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\librdkafkacpp.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\msvcr120.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\librdkafka\x64\zlib.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe.config
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.exe
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\HNCDataCollection.pdb
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Newtonsoft.Json.dll
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Confluent.Kafka.xml
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\bin\Release\Newtonsoft.Json.xml
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csprojAssemblyReference.cache
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Form1.resources
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.Properties.Resources.resources
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.GenerateResource.cache
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CopyComplete
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.exe
+C:\Users\81949\Desktop\HNCDataCollection\HNCDataCollection\obj\Release\HNCDataCollection.pdb
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x86\librdkafka.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x86\librdkafkacpp.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x86\msvcr120.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x86\zlib.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x64\librdkafka.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x64\librdkafkacpp.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x64\msvcr120.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\librdkafka\x64\zlib.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\HNCDataCollection.exe.config
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\HNCDataCollection.exe
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\HNCDataCollection.pdb
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\Confluent.Kafka.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\Newtonsoft.Json.dll
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\Confluent.Kafka.xml
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\bin\Release\Newtonsoft.Json.xml
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.csprojAssemblyReference.cache
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.Form1.resources
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.Properties.Resources.resources
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.csproj.GenerateResource.cache
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CopyComplete
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.exe
+C:\Users\81949\Desktop\HNCDataCollection - 副本\HNCDataCollection\obj\Release\HNCDataCollection.pdb
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x86\librdkafka.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x86\librdkafkacpp.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x86\msvcr120.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x86\zlib.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x64\librdkafka.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x64\librdkafkacpp.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x64\msvcr120.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\librdkafka\x64\zlib.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\HNCDataCollection.exe.config
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\HNCDataCollection.exe
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\HNCDataCollection.pdb
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\Confluent.Kafka.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\Newtonsoft.Json.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\Confluent.Kafka.xml
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\bin\Release\Newtonsoft.Json.xml
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.csprojAssemblyReference.cache
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.Form1.resources
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.Properties.Resources.resources
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.csproj.GenerateResource.cache
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.csproj.CopyComplete
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.exe
+C:\Users\81949\Desktop\数据采集软件 修改版集合\HNCDataCollectionFL\HNCDataCollection\obj\Release\HNCDataCollection.pdb
